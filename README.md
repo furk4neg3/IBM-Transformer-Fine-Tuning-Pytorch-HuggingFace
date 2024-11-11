@@ -2,6 +2,9 @@
 
 This project demonstrates the process of loading, fine-tuning, and evaluating large language models (LLMs) using PyTorch and Hugging Face’s tools. It includes task-specific fine-tuning using Hugging Face’s `SFTTrainer` module and implementing a custom supervised training loop in PyTorch to build high-performing NLP models for specific use cases.
 
+## Note
+The kernel crashes when it reaches the final cell in the code, preventing any output from being generated.
+
 ## Overview
 
 This project covers:
